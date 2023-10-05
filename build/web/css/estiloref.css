@@ -1,0 +1,36 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 4/10/2023, 18:25:39
+    Author     : HUAWEI
+*/
+
+body {
+    background-image: url("fondo2.jpg"); 
+    background-size: cover;
+    font-family: "Comic Sans MS", cursive, sans-serif;  
+  }
+  .titulo2 {
+    color: white; 
+    text-align: center; 
+    text-shadow: 2px 2px 4px #000000; 
+  }
+  .parrafo2 {
+    color: rgb(251, 255, 0); 
+    text-align: justify; 
+    margin: 20px;
+    font-weight: bold; 
+  }
+  
+  button {
+  position: fixed;
+  bottom: 10px;
+  left: 10px;
+  background-color: green;
+  border: none;
+  padding: 15px;
+  font-size: 20px;
+  color: white;
+}
